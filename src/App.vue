@@ -19,6 +19,7 @@ export default {
     },
     foo(){
       console.log("foo");
+      alert("yes");
     }
   },
 };
